@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Guoguo\'s Easy Write',
-  domain: 'https://www.notion.so/48f01ef543b142e087c6bd52b19c018c',
+  domain: 'write.guo.moe',
   author: 'Guoguo',
 
   // open graph metadata (optional)
